@@ -20,7 +20,7 @@
   "dependencies": {
     "@chenfengyuan/vue-number-input": "^2.0.1",
     "@vueuse/core": "^10.9.0",
-    "@vueuse/integrations": "^10.9.0",
+    "@vueuse/integrations": "^13.4.0",
     "ace-builds": "^1.32.9",
     "core-js": "^3.36.1",
     "dayjs": "^1.11.10",
