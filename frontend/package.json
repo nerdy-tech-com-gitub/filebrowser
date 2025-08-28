@@ -21,7 +21,7 @@
     "@chenfengyuan/vue-number-input": "^2.0.1",
     "@vueuse/core": "^10.9.0",
     "@vueuse/integrations": "^10.9.0",
-    "ace-builds": "^1.32.9",
+    "ace-builds": "^1.43.2",
     "core-js": "^3.36.1",
     "dayjs": "^1.11.10",
     "filesize": "^10.1.1",
